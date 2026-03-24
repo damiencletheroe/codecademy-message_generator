@@ -1,0 +1,21 @@
+{
+  "name": "messagegenerator",
+  "version": "1.0.0",
+  "description": "Intermediate JS task to implement a random message generator.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damiencletheroe/codecademy-message_generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/damiencletheroe/codecademy-message_generator/issues"
+  },
+  "homepage": "https://github.com/damiencletheroe/codecademy-message_generator#readme"
+}
